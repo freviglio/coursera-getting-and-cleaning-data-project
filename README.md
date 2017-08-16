@@ -6,7 +6,7 @@ This is the Coursera project for the Getting and Cleaning Data course.
 This repository contains the following files:
 
 <li>README.md provides an overview of the output table and how it was created.
-<li>tidy_data.txt contains the output data grouped by subjects and activities..
+<li>avgBy.txt contains the output data grouped by subjects and activities..
 <li>codeBook.md describes the contents of the output data and the variables and transformations used to generate it.
 <li>run_analysis.R is the R scr;ipt that was used to create the output table.
 
