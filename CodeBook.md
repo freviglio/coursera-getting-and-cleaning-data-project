@@ -6,18 +6,18 @@ We need to download the source file (Dataset.zip) from this link: "https://d396q
 ### 2) Read Souce Files
 Dataset.zip contains the following source files. 
 
-<li>activity : Labels for activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-<li>features: List of all features
-<br>
+<li><i>Activity</i> : Labels for activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+<li><i>Features</i>: List of all features
+<br><br>
 TRAINING DATA
-<li>trainX : Measurements produced by sensors. Assigned to the training split. 
-<li>trainY : Activities associated to the measures in trainX
-<li> trainSub : Identify the subject who performed the activity (training)
+<li><i>trainX</i> : Measurements produced by sensors. Assigned to the training split. 
+<li><i>trainY</i> : Activities associated to the measures in trainX
+<li><i>trainSub</i> : Identify the subject who performed the activity (training)
 <br>
 TEST DATA
-<li>testX : Measurements produced by sensors. Assigned to the test split. 
-<li>testY : Activities associated to the measures in testX
-<li>testSub : Identify the subject who performed the activity (test)
+<li><i>testX</i> : Measurements produced by sensors. Assigned to the test split. 
+<li><i>testY</i> : Activities associated to the measures in testX
+<li><i>testSub</i> : Identify the subject who performed the activity (test)
 
 ### 3) Substitute Columns names for Xs tables
 We use the feature table (features) to substitute the column labels in the measurement tables
