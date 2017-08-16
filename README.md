@@ -2,7 +2,7 @@
 
 This is the Coursera project for the Getting and Cleaning Data course.
 
-## Content
+## Repo Content
 This repository contains the following files:
 
 <li>README.md provides an overview of the output table and how it was created.
